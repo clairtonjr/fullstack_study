@@ -1,0 +1,24 @@
+h1 {  /* Um tipo de seletor (elemento); Seleciona o elemento que têm dentro de h1 e muda a cor */
+  color: red;
+}
+
+p, li { /* Utilizando multi seletor*/
+  color: green;
+}
+
+li { /* Mudando o comportamento do elemento */
+  list-style: none;
+}
+
+.special { /* Seletor de classe */
+  color: orange;
+  font-weight: bold;
+}
+
+
+li.special { /* seleciona qualquer elemento li que tenha a classe special*/
+  color: orange;
+  font-weight: bold;
+}
+
+
