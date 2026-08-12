@@ -1,9 +1,9 @@
 # Anotações de Estudos FullStack (HTML, CSS, JS)
 
-Repositório para anotações e testes práticos dos meus estudos nessa base fullstack, explore e conheça um pouco mais a forma como organizei essa aprendizagem.
+Repositório para anotações e testes práticos dos meus estudos fullstack JS.
 
-[HTML] ()
-[CSS] ()
-[JavaScript] ()
+[HTML] 
+[CSS] 
+[JavaScript]
 
 
